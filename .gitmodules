@@ -2,3 +2,6 @@
 	path = Tools/vcpkg
 	url = https://github.com/Microsoft/vcpkg.git
 	branch = master
+[submodule "Source/ThirdParty/zlib"]
+	path = Source/ThirdParty/zlib
+	url = https://github.com/madler/zlib.git
