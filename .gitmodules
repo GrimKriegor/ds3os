@@ -8,3 +8,6 @@
 [submodule "Source/ThirdParty/aes"]
 	path = Source/ThirdParty/aes
 	url = https://github.com/GrimKriegor/aes.git
+[submodule "Source/ThirdParty/nlohmann"]
+	path = Source/ThirdParty/nlohmann
+	url = https://github.com/nlohmann/json.git

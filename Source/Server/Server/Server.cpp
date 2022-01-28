@@ -23,7 +23,7 @@
 #include <chrono>
 #include <fstream>
 
-#include "ThirdParty/nlohmann/json.hpp"
+#include "ThirdParty/nlohmann/single_include/nlohmann/json.hpp"
 #include <openssl/rsa.h>
 #include <openssl/pem.h>
 #include <openssl/err.h>
