@@ -5,3 +5,6 @@
 [submodule "Source/ThirdParty/zlib"]
 	path = Source/ThirdParty/zlib
 	url = https://github.com/madler/zlib.git
+[submodule "Source/ThirdParty/aes"]
+	path = Source/ThirdParty/aes
+	url = https://github.com/GrimKriegor/aes.git
